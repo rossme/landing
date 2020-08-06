@@ -1,0 +1,14 @@
+.footer {
+  height: 180px;
+  background-color: lightgrey;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.social i {
+  padding: 40px;
+}
+
+
+
